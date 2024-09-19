@@ -1000,7 +1000,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-uhFAxJIprl .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.1rem);
+    max-height: calc(98.5vh - 3.8rem);
   }
 }
 .cid-uhFAxJIprl .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -1136,7 +1136,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #f7f7f7;
+  background-color: #a6a99c;
 }
 .cid-uhFAxJIprl button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1179,7 +1179,6 @@ a {
 .cid-uhFAxJIprl .navbar-dropdown {
   padding: 0;
   background-color: #ffffff !important;
-  position: fixed;
 }
 .cid-uhFAxJIprl .opacityScroll {
   background: rgba(255, 255, 255, 0) !important;
@@ -1350,8 +1349,8 @@ a {
   background-image: url("../../../assets/images/2-max-b-w-2000x1333.jpg");
 }
 .cid-uhFwV6o0AV .mbr-overlay {
-  background-color: #000000;
-  opacity: 0.2;
+  background-color: #717171;
+  opacity: 0.6;
 }
 @media (min-width: 768px) {
   .cid-uhFwV6o0AV {
@@ -1388,92 +1387,6 @@ a {
 }
 .cid-uhFwV6o0AV .mbr-text,
 .cid-uhFwV6o0AV .mbr-section-btn {
-  text-align: center;
-}
-.cid-uhFwV92QP2 {
-  display: flex;
-  background-color: #646464;
-}
-@media (min-width: 768px) {
-  .cid-uhFwV92QP2 {
-    align-items: flex-end;
-  }
-  .cid-uhFwV92QP2 .row {
-    justify-content: center;
-  }
-  .cid-uhFwV92QP2 .content-wrap {
-    padding: 1rem 3rem;
-  }
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-uhFwV92QP2 .content-wrap {
-    min-width: 50%;
-  }
-}
-@media (max-width: 767px) {
-  .cid-uhFwV92QP2 {
-    -webkit-align-items: center;
-    align-items: flex-end;
-  }
-  .cid-uhFwV92QP2 .mbr-row {
-    -webkit-justify-content: center;
-    justify-content: center;
-  }
-  .cid-uhFwV92QP2 .content-wrap {
-    width: 100%;
-  }
-}
-.cid-uhFwV92QP2 .mbr-section-title,
-.cid-uhFwV92QP2 .mbr-section-subtitle {
-  text-align: center;
-}
-.cid-uhFwV92QP2 .mbr-text,
-.cid-uhFwV92QP2 .mbr-section-btn {
-  text-align: center;
-}
-.cid-uhFwUSvkdc {
-  display: flex;
-  background-image: url("../../../assets/images/likewisebycbr-14-2-copy-2000x2624.jpeg");
-}
-.cid-uhFwUSvkdc .mbr-overlay {
-  background-color: #000000;
-  opacity: 0.5;
-}
-@media (min-width: 768px) {
-  .cid-uhFwUSvkdc {
-    align-items: flex-end;
-  }
-  .cid-uhFwUSvkdc .row {
-    justify-content: center;
-  }
-  .cid-uhFwUSvkdc .content-wrap {
-    padding: 1rem 3rem;
-  }
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-uhFwUSvkdc .content-wrap {
-    min-width: 50%;
-  }
-}
-@media (max-width: 767px) {
-  .cid-uhFwUSvkdc {
-    -webkit-align-items: center;
-    align-items: flex-end;
-  }
-  .cid-uhFwUSvkdc .mbr-row {
-    -webkit-justify-content: center;
-    justify-content: center;
-  }
-  .cid-uhFwUSvkdc .content-wrap {
-    width: 100%;
-  }
-}
-.cid-uhFwUSvkdc .mbr-section-title,
-.cid-uhFwUSvkdc .mbr-section-subtitle {
-  text-align: center;
-}
-.cid-uhFwUSvkdc .mbr-text,
-.cid-uhFwUSvkdc .mbr-section-btn {
   text-align: center;
 }
 .cid-tJS9NNcTLZ {
